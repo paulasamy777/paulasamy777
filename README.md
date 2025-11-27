@@ -23,7 +23,7 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="pandas" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg" alt="pandas" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
 </p>
