@@ -28,7 +28,6 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
 </p>
 
-
 ⏳ Year Progress: { ███████████████████████████▁▁▁ } 90.43% as on ⏰ 27-Nov-2025
 <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Featured Projects:
 🤖 Computer Vision Applications
