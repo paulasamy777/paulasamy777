@@ -26,24 +26,7 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
   <img src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" alt="pandas" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
-</p>
 
-⏳ Year Progress: { ███████████████████████████▁▁▁ } 90.43% as on ⏰ 27-Nov-2025
-<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Featured Projects:
-🤖 Computer Vision Applications
-Real-time Object Tracking - OpenCV-based color and object tracking systems
-
-Autonomous Vehicle Data Annotation - Dataset preparation for car detection
-
-Image Processing Techniques - Real-time detection and processing algorithms
-
-🧩 AI Puzzle Solver
-KenKen/Douko Solver - AI project using search algorithms and heuristics in Python
-
-💼 Software Systems
-Library Shop Management - Java-based inventory and sales management system
-
-Movie Streaming Website - Netflix-inspired responsive front-end design
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> AI Quote of the Day:
 <!--STARTS_HERE_QUOTE_README-->
 • <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." — Edsger W. Dijkstra</i>
