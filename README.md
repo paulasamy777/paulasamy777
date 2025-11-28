@@ -7,7 +7,7 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 
 🤖 AI Engineer passionate about Machine Learning and Computer Vision
 
-💻 Daily driver: Python, OpenCV, TensorFlow
+💻 Daily driver: Python, OpenCV, TensorFlow, numpy, pandas
 
 📚 Currently advancing my skills in Deep Learning and Computer Vision algorithms
 
