@@ -2,7 +2,7 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 <p align="center"> <a href="https://www.linkedin.com/in/paula-samy-3486132a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paula-samy" height="30" width="30" /></a>&nbsp; <a href="mailto:paulasamy453@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="paulasamy453" height="30" width="30" /></a>&nbsp; </p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-🎓 3rd Year Computer Science Student specializing in Robotics at Helwan National University
+🎓 4th Year Computer Science Student specializing in Robotics at Helwan National University
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 🤖 AI Engineer passionate about Machine Learning and Computer Vision
